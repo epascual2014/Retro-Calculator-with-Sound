@@ -12,6 +12,7 @@
 		61166EBB1D9B249200CCFE5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61166EB91D9B249200CCFE5E /* Main.storyboard */; };
 		61166EBD1D9B249200CCFE5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61166EBC1D9B249200CCFE5E /* Assets.xcassets */; };
 		61166EC01D9B249200CCFE5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61166EBE1D9B249200CCFE5E /* LaunchScreen.storyboard */; };
+		61166EC91D9B4A9F00CCFE5E /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 61166EC81D9B4A9F00CCFE5E /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		61166EBF1D9B249200CCFE5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61166EC11D9B249200CCFE5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61166EC71D9B465400CCFE5E /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		61166EC81D9B4A9F00CCFE5E /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				61166EB71D9B249200CCFE5E /* ViewController.swift */,
 				61166EB91D9B249200CCFE5E /* Main.storyboard */,
 				61166EBC1D9B249200CCFE5E /* Assets.xcassets */,
+				61166EC81D9B4A9F00CCFE5E /* btn.wav */,
 				61166EC71D9B465400CCFE5E /* Minecraft.ttf */,
 				61166EBE1D9B249200CCFE5E /* LaunchScreen.storyboard */,
 				61166EC11D9B249200CCFE5E /* Info.plist */,
@@ -127,6 +130,7 @@
 				61166EC01D9B249200CCFE5E /* LaunchScreen.storyboard in Resources */,
 				61166EBD1D9B249200CCFE5E /* Assets.xcassets in Resources */,
 				61166EBB1D9B249200CCFE5E /* Main.storyboard in Resources */,
+				61166EC91D9B4A9F00CCFE5E /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
